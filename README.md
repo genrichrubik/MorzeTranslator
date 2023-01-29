@@ -1,0 +1,2 @@
+# MorzeTranslator
+Morse code is a system used to transmit text messages as a series of short and long signals or tones. It was developed in the early 19th century by Samuel Morse, an American inventor. The code consists of a series of dots and dashes that represent letters, numbers, punctuation marks, and other symbols. For example, the letter "A" is represented by a single dot followed by a dash (•-).
